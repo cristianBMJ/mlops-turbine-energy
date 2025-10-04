@@ -22,9 +22,10 @@ If you haven't installed Poetry yet, you can do so by running:
 
 Navigate to the project directory where the `pyproject.toml` file is located and run:
 
-    poetry install
+    poetry install 
 
-Ensure that you are using a compatible Python version `>=3.9 and <4.0`. You can check your Python version with:
+Ensure that you are using a compatible Python version `>=3.9 and <4.0` except `3.9.7`. You can check your Python version with:
+
 
     python --version
 
